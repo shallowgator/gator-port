@@ -1,4 +1,4 @@
-## MY WORK
+## Portfolio (part of)
 
 ### a perpetual personal endeavor, multimedia project named: 
 
