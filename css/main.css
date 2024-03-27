@@ -1,0 +1,39 @@
+html {
+  font: 100%/1.15 sans-serif;
+}
+
+body {
+  max-width: 60rem;
+  background-color: #000;
+  color: #fff;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+/* Enlarge text size on wider width screens */
+
+@media (min-width: 60em) {
+  
+  body {
+    font-size: 125%;
+  }
+
+}
+
+p,
+li {
+  line-height: 1.5;
+}
+
+p {
+  font-family: serif;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover,
+a:focus {
+  color: #ff0;
+}
