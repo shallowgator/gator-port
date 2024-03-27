@@ -1,5 +1,7 @@
 links:
   - label: Home
     url: /
-  - label: Blog
-    url: /blog
+  - label: Portfolio
+    url: /port
+  - label: Links 
+    url: /links
