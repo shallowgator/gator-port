@@ -1,4 +1,7 @@
-## Portfolio (part of)
+---
+layout: port
+title: Portfolio (part of)
+---
 
 ### a perpetual personal endeavor, multimedia project named: 
 
